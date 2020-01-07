@@ -1,1 +1,1 @@
-A & B = C
+A and B = C
